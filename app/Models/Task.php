@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Model; //Test
+use Illuminate\Database\Eloquent\Model;
 
 class Task extends Model
 {
